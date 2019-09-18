@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GradientProgressView
 //
-//  Created by Mohit Shrama on 18/09/19.
+//  Created by Vaibhav Shrama on 18/09/19.
 //  Copyright © 2019 vaibhav sharma. All rights reserved.
 //
 

@@ -12,6 +12,9 @@
 		08B54A8A23329C1500BBA085 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08B54A8823329C1500BBA085 /* Main.storyboard */; };
 		08B54A8C23329C1800BBA085 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08B54A8B23329C1800BBA085 /* Assets.xcassets */; };
 		08B54A8F23329C1800BBA085 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08B54A8D23329C1800BBA085 /* LaunchScreen.storyboard */; };
+		08B54A9723329C3100BBA085 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B54A9623329C3100BBA085 /* GradientView.swift */; };
+		08B54A9923329C8400BBA085 /* GradientProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B54A9823329C8400BBA085 /* GradientProgressView.swift */; };
+		08B54A9B23329D5B00BBA085 /* CommonExtenion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B54A9A23329D5B00BBA085 /* CommonExtenion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		08B54A8B23329C1800BBA085 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08B54A8E23329C1800BBA085 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08B54A9023329C1800BBA085 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08B54A9623329C3100BBA085 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		08B54A9823329C8400BBA085 /* GradientProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientProgressView.swift; sourceTree = "<group>"; };
+		08B54A9A23329D5B00BBA085 /* CommonExtenion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonExtenion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				08B54A8B23329C1800BBA085 /* Assets.xcassets */,
 				08B54A8D23329C1800BBA085 /* LaunchScreen.storyboard */,
 				08B54A9023329C1800BBA085 /* Info.plist */,
+				08B54A9623329C3100BBA085 /* GradientView.swift */,
+				08B54A9823329C8400BBA085 /* GradientProgressView.swift */,
+				08B54A9A23329D5B00BBA085 /* CommonExtenion.swift */,
 			);
 			path = GradientProgressView;
 			sourceTree = "<group>";
@@ -137,6 +146,9 @@
 			files = (
 				08B54A8723329C1500BBA085 /* ViewController.swift in Sources */,
 				08B54A8523329C1500BBA085 /* AppDelegate.swift in Sources */,
+				08B54A9723329C3100BBA085 /* GradientView.swift in Sources */,
+				08B54A9B23329D5B00BBA085 /* CommonExtenion.swift in Sources */,
+				08B54A9923329C8400BBA085 /* GradientProgressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
